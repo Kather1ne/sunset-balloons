@@ -1,0 +1,1 @@
+export const BALLOONS_MODELS_LENGTH = 6;
